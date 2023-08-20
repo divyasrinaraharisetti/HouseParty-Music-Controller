@@ -20,6 +20,7 @@ Install Node Modules
 First cd into the frontend folder.
 
 `cd frontend`
+
 Next install all dependicies.
 
 `npm i`
